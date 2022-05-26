@@ -47,8 +47,6 @@ const App = () => {
         >
           <View style={{
             flex:1,
-            // flexDirection: 'row-reverse',
-            // flexWrap: 'wrap',
             position: 'absolute',
             top: CurrentPosition.y + 45,
             left: CurrentPosition.x - 20
